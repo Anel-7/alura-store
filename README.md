@@ -62,9 +62,11 @@
     📓 Jupyter Notebook – documentación interactiva
 
 📂 Estructura de Archivos
+
     Alura_Store/
     │
-    ├─ analisis_alura_store.ipynb
+    ├─ alura_store.ipynb
     │
     ├─ README.md
-    
+
+
